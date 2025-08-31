@@ -1,26 +1,21 @@
-# SW Missouri No-Till Perennial + Nurse-Crop Plan for Goats (Updated with Planting Methods and Height Guidance)
+# SW Missouri No-Till Perennial + Nurse-Crop Plan for Goats (Updated)
 
 ---
 
-## Seed Mix (per acre, fall drill/broadcast)
+## Seed Mix (per acre, fall drill/broadcast/frost-seed)
 
-| Species                     | Rate (lb/acre) | Lifecycle              | Benefit                                               | Notes / Caveats                                         | Avg. Height for Good Forage Quality | Max Height Before Quality Drops | Planting Method |
-|------------------------------|----------------|------------------------|-------------------------------------------------------|---------------------------------------------------------|-----------------------------------|-------------------------------|----------------|
-| Orchardgrass                 | 10             | Perennial              | Persistent base, high fiber, palatable               | Drill ¼–½"; avoid grazing first year                   | 3–4"                             | 18–24"                        | Drill          |
-| Chicory                      | 4              | Perennial              | Deep taproot, mineral-dense, digestible              | Residual 4–5"; sensitive to overgrazing                | 4–5"                             | 12–15"                        | Broadcast      |
-| Birdsfoot trefoil            | 3              | Perennial              | Tannins reduce bloat, parasite control, moderate protein | Slow to establish; allow occasional seed-set        | 4–5"                             | 18"                            | Broadcast      |
-| Red clover                   | 4              | Perennial (short-lived)| High protein, fills gaps                              | Overseed as needed                                      | 3–4"                             | 15–18"                        | Broadcast      |
-| White clover                 | 2              | Perennial              | Nitrogen fixer, fills low spots                       | Keep moderate grazing height                             | 3–4"                             | 8–10"                         | Broadcast      |
-| Sericea lespedeza (AU Grazer)| 2–3           | Perennial              | Tannin forage for parasite suppression                | Dense stand needed for effectiveness                     | 4–6"                             | 24"                            | Drill          |
-| Oats                         | 15             | Annual                 | Fast fall forage, protects seedlings                  | Grazable in fall; dies over winter                       | 6–12" (graze lightly)            | 18–24"                        | Broadcast      |
-| Cereal rye                   | 15             | Annual                 | Winter hardy, tall biomass                            | Grazable lightly; thins by spring                        | 12–18" (graze lightly)           | 24–30"                        | Broadcast      |
-| Triticale                    | 10             | Annual                 | Rapid establishment, weed suppression                 | Dies or thins by late spring                             | 10–14" (graze lightly)           | 24–30"                        | Broadcast      |
-| Annual ryegrass               | 3              | Annual / Winter hardy  | Early spring grazing, fast regrowth                   | Plant late fall; adds winter forage                      | 6–10"                             | 18–24"                        | Broadcast      |
-
-**Notes:**
-- Drill perennials that require depth; broadcast small seeds and nurse crops.
-- Residual heights guide rotational grazing; max heights indicate safe limits before digestibility declines.
-- Tall tannin forages like sericea and trefoil can remain slightly taller for parasite control.
+| Species                     | Rate (lb/acre) | Lifecycle              | Benefit                                               | Max Height Before Quality Drops | Planting Method | Frost-Seed Suitability | Planting Window (SW MO) |
+|------------------------------|----------------|------------------------|-------------------------------------------------------|-------------------------------|----------------|----------------------|------------------------|
+| Orchardgrass                 | 8              | Perennial              | Persistent base, high fiber, palatable               | 18–24"                        | Drill / Overseed | ✅ Works well        | Fall (Aug–Sep) or Spring (Mar–Apr) |
+| Chicory                      | 3              | Perennial              | Deep taproot, mineral-dense, digestible              | 12–15"                        | Broadcast / Overseed | ⚠ Limited success; light soil disturbance | Spring (Feb–Mar) |
+| Birdsfoot trefoil            | 3              | Perennial              | Tannins reduce bloat, parasite control, moderate protein | 18"                            | Broadcast / Overseed | ✅ Works well        | Spring (Feb–Mar) |
+| Red clover                   | 3              | Perennial (short-lived)| High protein, fills gaps                              | 15–18"                        | Broadcast / Overseed | ✅ Works well        | Spring (Feb–Mar) |
+| White clover                 | 2              | Perennial              | Nitrogen fixer, fills low spots                       | 8–10"                         | Broadcast / Overseed | ✅ Works well        | Spring (Feb–Mar) |
+| Sericea lespedeza (AU Grazer)| 5              | Perennial              | Tannin forage for parasite suppression                | 24"                            | Drill / Overseed | ⚠ Marginal; requires scarified seed and soil contact | Fall (Aug–Sep) or Spring (Mar–Apr) |
+| Oats                         | 15             | Annual                 | Fast fall forage, protects seedlings                  | 18–24"                        | Broadcast / Overseed | ❌ Not frost-seeded  | Fall (Aug–Oct) |
+| Cereal rye                   | 15             | Annual                 | Winter hardy, tall biomass                            | 24–30"                        | Broadcast / Overseed | ✅ Works well        | Spring (Feb–Mar) |
+| Triticale                    | 10             | Annual                 | Rapid establishment, weed suppression                 | 24–30"                        | Broadcast / Overseed | ✅ Works well        | Spring (Feb–Mar) |
+| Annual ryegrass               | 3              | Annual / Winter hardy  | Early spring grazing, fast regrowth                   | 18–24"                        | Broadcast / Overseed | ✅ Works well        | Spring (Feb–Mar) |
 
 ---
 
@@ -28,7 +23,7 @@
 
 | Month     | Activities                                                   | Grazing Guidance                                                                                   |
 |-----------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| September | Soil test, lime/fertilizer, firm seedbed, drill/broadcast seed mix | Keep animals off for 2–3 weeks until emergence                                                     |
+| September | Soil test, lime/fertilizer, firm seedbed, drill/broadcast/frost-seed seed mix | Keep animals off for 2–3 weeks until emergence                                                     |
 | October   | Check seedlings; first leaves visible                        | Light grazing on nurse crops only; protect perennials; maintain residual heights (per table)       |
 | November  | Nurse crops established                                      | Light rotational grazing on nurse crops; monitor perennials for 3–5" residual; allow taller tannin forage 6–8" |
 | December–February | Dormant growth                                       | Minimal grazing; hay supplement; monitor any tall tannin forages for selective browsing            |
@@ -50,6 +45,7 @@
 - Monitor paddocks for bare spots, pulled tillers, or low crowns.  
 - Adjust rotation frequency or reduce herd density if seedlings stressed.  
 - Use tall tannin forages strategically for parasite control.  
+- Frost-seeding small-seeded species in late winter/early spring is an effective way to supplement your stand.
 
 ---
 
@@ -58,4 +54,5 @@
 - Sericea lespedeza and birdsfoot trefoil provide tannins that help reduce parasite burdens.  
 - Tall perennials and height diversity improve selective grazing and reduce worm intake.  
 - Nurse crops protect seedlings, provide early forage, and thin as perennials mature.  
-- Trace mineral supplementation is recommended for goats to maintain optimal health.
+- Trace mineral supplementation is recommended for goats to maintain optimal health.  
+- Full-field no-till with overseeding/frost-seeding is viable in Missouri, allowing establishment of perennials without taking paddocks completely out of rotation.
